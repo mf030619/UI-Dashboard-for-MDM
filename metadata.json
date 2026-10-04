@@ -1,0 +1,6 @@
+{
+  "name": "AI MDM Platform",
+  "description": "Real-time master data management, cross-domain entity resolution, and deterministic causal intelligence dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
